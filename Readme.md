@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomLegendOptionsControl.cs](./CS/ChartDesignerCustomization/CustomLegendOptionsControl.cs) (VB: [CustomLegendOptionsControl.vb](./VB/ChartDesignerCustomization/CustomLegendOptionsControl.vb))
+* **[MainForm.cs](./CS/ChartDesignerCustomization/MainForm.cs) (VB: [MainForm.vb](./VB/ChartDesignerCustomization/MainForm.vb))**
+<!-- default file list end -->
 # How to customize the Chart Designer
 
 
